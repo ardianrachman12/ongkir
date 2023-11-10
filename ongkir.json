@@ -1,6 +1,4 @@
 [
-{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"ongkir"},
 {"type":"table","name":"kecamatan","database":"ongkir","data":
 [
 {"id_kec":"110101","id_kab":"1101","nama":"Bakongan","ongkir":"5500","ongkir_jne_yes":"5600","ongkir_jne_reg":"5000","ongkir_pos_express":"4500","ongkir_pos_kilat":"4200","ongkir_tiki_express":"4900","ongkir_tiki_reguler":"4700"},
